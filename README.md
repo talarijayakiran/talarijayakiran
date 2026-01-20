@@ -113,8 +113,7 @@ Each project is built with a consistent philosophy:
 * deployment and reliability as part of learning
 * clear, reproducible project structure
 
-```
-```
+
 ## Engineering Toolchain
 
 ### Core Language
@@ -158,9 +157,7 @@ Each project is built with a consistent philosophy:
 ### Prompting as a System Capability
 - **Prompting integrated into ML workflows**  
   (used as an interface for controlling behavior, experimentation, and system interaction — not treated as a standalone skill)
-```
 
-```
 ## Problem Solving & Engineering Discipline
 
 I maintain consistent problem-solving practice to strengthen the algorithmic foundations required for building reliable ML systems.
